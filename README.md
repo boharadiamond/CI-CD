@@ -1,1 +1,1 @@
-cpmplete ci/cd understanding
+complete ci/cd understanding
