@@ -1,0 +1,1 @@
+cpmplete ci/cd understanding
